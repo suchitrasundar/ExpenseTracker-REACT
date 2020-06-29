@@ -6,8 +6,8 @@ An expense tracker in React.js using functional components with hooks and the co
 
 npm install
 
-Run on http://localhost/3000
+Run on http://localhost/3000 :
 npm start
 
-Build for the project
+Build for the project :
 npm run build
